@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quincytoyo
 - 👀 I’m interested in Blockchain Development
-- 🌱 I’m currently learning Blockchain Dev Ops
+- 🌱 I’m currently learning Celo Development
 - 💞️ I’m looking to collaborate on Blockchain
 - 📫 How to reach me quincytoyo@hotmail.com
 
